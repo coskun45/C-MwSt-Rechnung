@@ -1,0 +1,13 @@
+C:\Users\eyupc\OneDrive\Desktop\Th Projeler\onlineScharfeKuche\onlineScharfeKuche\onlineScharfeKuche\bin\Debug\netcoreapp3.1\onlineScharfeKuche.exe
+C:\Users\eyupc\OneDrive\Desktop\Th Projeler\onlineScharfeKuche\onlineScharfeKuche\onlineScharfeKuche\bin\Debug\netcoreapp3.1\onlineScharfeKuche.deps.json
+C:\Users\eyupc\OneDrive\Desktop\Th Projeler\onlineScharfeKuche\onlineScharfeKuche\onlineScharfeKuche\bin\Debug\netcoreapp3.1\onlineScharfeKuche.runtimeconfig.json
+C:\Users\eyupc\OneDrive\Desktop\Th Projeler\onlineScharfeKuche\onlineScharfeKuche\onlineScharfeKuche\bin\Debug\netcoreapp3.1\onlineScharfeKuche.runtimeconfig.dev.json
+C:\Users\eyupc\OneDrive\Desktop\Th Projeler\onlineScharfeKuche\onlineScharfeKuche\onlineScharfeKuche\bin\Debug\netcoreapp3.1\onlineScharfeKuche.dll
+C:\Users\eyupc\OneDrive\Desktop\Th Projeler\onlineScharfeKuche\onlineScharfeKuche\onlineScharfeKuche\bin\Debug\netcoreapp3.1\onlineScharfeKuche.pdb
+C:\Users\eyupc\OneDrive\Desktop\Th Projeler\onlineScharfeKuche\onlineScharfeKuche\onlineScharfeKuche\obj\Debug\netcoreapp3.1\onlineScharfeKuche.csprojAssemblyReference.cache
+C:\Users\eyupc\OneDrive\Desktop\Th Projeler\onlineScharfeKuche\onlineScharfeKuche\onlineScharfeKuche\obj\Debug\netcoreapp3.1\onlineScharfeKuche.AssemblyInfoInputs.cache
+C:\Users\eyupc\OneDrive\Desktop\Th Projeler\onlineScharfeKuche\onlineScharfeKuche\onlineScharfeKuche\obj\Debug\netcoreapp3.1\onlineScharfeKuche.AssemblyInfo.cs
+C:\Users\eyupc\OneDrive\Desktop\Th Projeler\onlineScharfeKuche\onlineScharfeKuche\onlineScharfeKuche\obj\Debug\netcoreapp3.1\onlineScharfeKuche.csproj.CoreCompileInputs.cache
+C:\Users\eyupc\OneDrive\Desktop\Th Projeler\onlineScharfeKuche\onlineScharfeKuche\onlineScharfeKuche\obj\Debug\netcoreapp3.1\onlineScharfeKuche.dll
+C:\Users\eyupc\OneDrive\Desktop\Th Projeler\onlineScharfeKuche\onlineScharfeKuche\onlineScharfeKuche\obj\Debug\netcoreapp3.1\onlineScharfeKuche.pdb
+C:\Users\eyupc\OneDrive\Desktop\Th Projeler\onlineScharfeKuche\onlineScharfeKuche\onlineScharfeKuche\obj\Debug\netcoreapp3.1\onlineScharfeKuche.genruntimeconfig.cache
